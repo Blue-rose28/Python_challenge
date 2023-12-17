@@ -2,8 +2,7 @@
 
 ## Overview
 This repository contains Python scripts, `main.py`, to analyze financial and election data for the PyBank and PyPoll challenges respectively. The scripts read CSV files containing financial and election data, perform calculations, and produce analysis results.
-## Technology
-Python
+
 ### Files Included:
 - **PyBank**
   - `main.py`: Python script for analyzing financial data (`budget_data.csv`).
